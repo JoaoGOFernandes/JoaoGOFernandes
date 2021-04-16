@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hey! Welcome to my profile! 👋
 
-<!--
-**JoaoGOFernandes/JoaoGOFernandes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student at USP since 2020.
 
-Here are some ideas to get you started:
+### "Man's greatest asset is the unsettled mind"
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📍 From MA living in SP
+- 💻 Full stack development student
+
+I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.
+
+Reach me out 👇🏼
+
+[![Gmail Badge](https://img.shields.io/badge/-diego.schell.f@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jgabriel.ofernandes@gmail.com)](mailto:jgabriel.ofernandes@gmail.com)
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joao-g-fernandes/)](https://www.linkedin.com/in/joao-g-fernandes/)
