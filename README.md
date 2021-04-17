@@ -11,4 +11,4 @@ I'm passionate about solving problems and learning. Always open to new challenge
 
 Reach me out 👇🏼
 
-[![Gmail Badge](https://img.shields.io/badge/-jgabriel.ofernandes@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jgabriel.ofernandes@gmail.com)](mailto:jgabriel.ofernandes@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joao-g-fernandes/)](https://www.linkedin.com/in/joao-g-fernandes/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joao-g-fernandes/)](https://www.linkedin.com/in/joao-g-fernandes/) [![Gmail Badge](https://img.shields.io/badge/-jgabriel.ofernandes@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jgabriel.ofernandes@gmail.com)](mailto:jgabriel.ofernandes@gmail.com)
